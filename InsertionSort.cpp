@@ -23,7 +23,7 @@ void input() { //procedur untuk input
 
 	for (int i = 0; i < n; i++) { //Looping dengan i dimulai dari 0 hingga n-1
 		cout << "Data ke-" << (i + 1) << ": "; //Output ke layar
-		cin >> a[i]; //Input dari pengguna
+		cin >> arr[i]; //Input dari pengguna
 	}
 }
 
