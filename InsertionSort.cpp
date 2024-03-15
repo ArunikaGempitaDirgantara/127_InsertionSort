@@ -6,6 +6,19 @@ using namespace std;
 int n;
 int arr[11];
 
+void insertionSort() { //fungsi pembuatan variabel global
+	int i, n, temp, j;
+	int arr[11];
+
+}
+
+
+
+int main()
+{
+   
+}
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
