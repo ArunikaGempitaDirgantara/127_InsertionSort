@@ -3,17 +3,8 @@
 
 #include <iostream>
 using namespace std;
-
-void insertionSort() { //fungsi pembuatan variabel global
-	int i, n, temp, j;
-	int arr[11];
-
-}
-
-int main()
-{
-   
-}
+int n;
+int arr[11];
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
