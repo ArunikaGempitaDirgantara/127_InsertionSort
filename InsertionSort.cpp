@@ -6,11 +6,6 @@ using namespace std;
 int n;
 int arr[11];
 
-void insertionSort() { //fungsi pembuatan variabel global
-	int i, n, temp, j;
-	int arr[11];
-
-}
 
 
 
