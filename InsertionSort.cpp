@@ -27,6 +27,23 @@ void input() { //procedur untuk input
 	}
 }
 
+void insertionSort() {
+
+}
+
+void display() {
+	cout << endl;
+	cout << "=============" << endl;
+	cout << "Element Array yang telah tersusun" << endl;
+	cout << "=============" << endl;
+	for (int j = 0; j < n; j++) {
+		cout << arr[j] << endl; //Output each array element on a new line
+	}
+	cout << "Jumlah Pass = " << n - 1 << endl; //Correctly shows the total number of elements
+	cout << endl;
+}
+
+
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
 // Debug program: F5 or Debug > Start Debugging menu
